@@ -26,7 +26,7 @@
         &trans            &trans  &trans  &trans  &trans  &trans         &trans    &trans    &trans  &trans     &trans  &trans
 &trans  &trans            &trans  &trans  &trans  &trans  &trans         &trans    &trans    &trans  &trans     &trans  &trans  &trans
         &kp LEFT_CONTROL  &trans  &trans  &trans  &trans  &kp BACKSLASH  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans
-        &trans            &trans  &trans  &trans  &trans  &trans         &trans    &trans    &trans  &trans     &trans  &trans
+        &trans            &trans  &trans  &trans  &trans  &kp GRAVE      &trans    &trans    &trans  &trans     &trans  &trans
                                                   &trans  &trans         &trans    &trans    &trans  &trans
             >;
         };
